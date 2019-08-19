@@ -1,2 +1,2 @@
 # GA_Memory_Game
-#Initialized for GA tutorial
+V0 - Initialized for GA tutorial
